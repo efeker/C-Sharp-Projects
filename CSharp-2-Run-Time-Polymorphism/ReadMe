@@ -1,0 +1,2 @@
+By using run time polymorphism, we can override a base class method in derived class by creating a method with same name and parameters to perform a different task.
+The run time polymorphism can be achieved by using method overriding and it is also called as late binding or dynamic binding.
