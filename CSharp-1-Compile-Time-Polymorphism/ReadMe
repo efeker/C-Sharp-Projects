@@ -1,0 +1,2 @@
+Compile Time Polymorphism means defining a multiple methods with same name but with different parameters. By using compile time polymorphism, we can perform a different tasks with same method name by passing different parameters.
+The compile time polymorphism can be achieved by using method overloading and it is also called as early binding or static binding.
