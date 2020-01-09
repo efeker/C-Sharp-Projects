@@ -1,1 +1,1 @@
-AddLast, AddFirst, IndexOf, Contains, RemoveFirst, RemoveLast, GetPrevious, Size, ReverseList, GetKthFromTheEnd, PrintList, isEmpty
+AddLast(), AddFirst(), IndexOf(), Contains(), RemoveFirst(), RemoveLast(), GetPrevious(), Size(), ReverseList(), GetKthFromTheEnd(), PrintList(), isEmpty()
