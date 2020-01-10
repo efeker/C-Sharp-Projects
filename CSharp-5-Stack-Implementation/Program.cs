@@ -1,4 +1,6 @@
-﻿namespace Stack
+﻿using System;
+
+namespace Stack
 {
     internal class Program
     {
@@ -18,7 +20,8 @@
             myStack.Push("String");
             myStack.Print();
 
-            myStack.Peek();
+            var lastItem = myStack.Peek();
+            Console.WriteLine(lastItem);
 
             myStack.Clear();
             //myStack.Print();

@@ -63,10 +63,8 @@ namespace Stack
             else
             {
                 var lastObject = _list.Last();
-
-                Console.WriteLine(lastObject);
+                return lastObject;
             }
-            return 0;
         }
 
         public static void NewLine()
